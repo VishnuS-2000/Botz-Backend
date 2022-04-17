@@ -11,9 +11,6 @@ import pickle
 import nltk
 nltk.download('punkt')
 
-from fastapi.middleware.cors import CORSMiddleware
-
-
 
 
 
